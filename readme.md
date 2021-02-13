@@ -24,3 +24,4 @@ una operación matemática (+,-,/,x,%), y si la operación no es correcta que en
     }
 
 ¿Hasta cuántos argumentos puedes declarar en una función?
+    Hasta 30 argumentos
